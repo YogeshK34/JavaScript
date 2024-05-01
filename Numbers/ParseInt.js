@@ -9,3 +9,6 @@
 
 let variable = parseInt("22",3)
 console.log(variable)
+
+
+
